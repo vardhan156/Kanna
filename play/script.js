@@ -259,7 +259,7 @@ function fungsiTerima() {
         imageUrl: '' + stikerTerima.src,
         imageWidth: 90,
         imageHeight: 90,
-        imageAlt: 'by Feeldream.id',
+        imageAlt: 'by @aoudumber.dev',
         confirmButtonText: 'OK',
         allowOutsideClick: false,
     });
